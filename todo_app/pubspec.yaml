@@ -37,6 +37,7 @@ dependencies:
   flutter_riverpod: ^2.5.1 # Riverpod 3.0 이상 버전 사용
   freezed_annotation: ^2.4.1 # Freezed 최신버전 사용
   json_annotation: ^4.9.0
+  riverpod: ^2.6.1
 
 dev_dependencies:
   flutter_test:
